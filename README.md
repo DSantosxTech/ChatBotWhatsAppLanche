@@ -1,24 +1,18 @@
-# ChatBot para Lanchonete em Desenvolvimento
+Bem-vindo ao ChatBot em desenvolvimento para Lanchonete! Este projeto visa automatizar interações via WhatsApp, oferecendo mensagens pré-programadas que incluem o cardápio, taxa de entrega e facilitam a realização de pedidos.
 
-Bem-vindo ao ChatBot simples para Lanchonete, um projeto em constante desenvolvimento que utiliza tecnologias de mensagens instantâneas para proporcionar aos clientes uma experiência interativa ao fazer pedidos e obter informações sobre o cardápio de uma lanchonete.
+## Funcionalidades:
 
-## Visão Geral
+1. **Fazer Pedido:** Os clientes podem facilmente fazer pedidos interagindo com o ChatBot.
 
-Este ChatBot está sendo desenvolvido para simplificar o processo de atendimento ao cliente, permitindo que os usuários façam pedidos, verifiquem informações sobre os itens do cardápio e interajam com o serviço de atendimento.
+2. **Verificar Taxa de Entrega:** Usuários podem checar a taxa de entrega para o local desejado.
 
-## Funcionalidades
+3. **Falar com Atendente:** Se precisarem de assistência adicional, os clientes têm a opção de falar diretamente com um atendente humano.
 
-1. **Fazer Pedido:** Os clientes podem fazer pedidos simplesmente interagindo com o ChatBot.
-
-2. **Verificar Taxa de Entrega:** Os usuários têm a opção de verificar a taxa de entrega para o local desejado.
-
-3. **Falar com Atendente:** Caso necessitem de assistência adicional, os clientes podem optar por falar diretamente com um atendente humano.
-
-## Como Usar
+## Como Usar:
 
 ### Configuração
 
-Antes de usar o ChatBot, siga estas etapas:
+Antes de utilizar o ChatBot, siga estas etapas:
 
 1. Clone o repositório:
 
@@ -29,11 +23,8 @@ git clone https://github.com/seu-usuario/chatbot-lanchonete.git
 2. Instale as dependências:
 
 ```bash
-npm install ou 
-Yarn install
+npm install ou Yarn install
 ```
-
-3. Configure o arquivo `config.js` com as informações da sua lanchonete.
 
 ### Execução
 
