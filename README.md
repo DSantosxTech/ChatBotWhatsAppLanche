@@ -1,3 +1,5 @@
+## ChatBot WhatsApp 
+
 Bem-vindo ao ChatBot em desenvolvimento para Lanchonete! Este projeto visa automatizar interações via WhatsApp, oferecendo mensagens pré-programadas que incluem o cardápio, taxa de entrega e facilitam a realização de pedidos.
 
 ## Funcionalidades:
