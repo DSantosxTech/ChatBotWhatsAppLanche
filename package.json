@@ -1,0 +1,21 @@
+{
+  "name": "botwhatsapp",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "devDependencies": {
+    "@rocketseat/eslint-config": "^1.2.0",
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "g": "^2.0.1",
+    "venom-bot": "^5.0.21",
+    "yarn": "^1.22.21"
+  }
+}
